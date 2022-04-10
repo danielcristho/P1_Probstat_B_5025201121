@@ -57,15 +57,20 @@
 2. Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan :
     - Peluang terdapat 4 pasien yang sembuh
      
-      ### result
+      #### result
       ```yml
       0.2181994
       ```
       
     - Gambarkan grafik histogram berdasarkan kasus tersebut
     ![](https://github.com/danielcristho/P1_Probstat_B_5025201121/blob/main/src/soal2.png)
-      #### result
-       ```yml
+       
+
+    
+
+    - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi 
+      ### result
+        ```yml
        p = 0.2
        mean = 1/p
        mean
@@ -75,54 +80,46 @@
        var
        20
        ```
-
-    
-
-    - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi 
-     
-     ### result 
-     ```yml
-     4.363988
-     ```
 3.  Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis
     4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)
       - Berapa peluang bahwa 6 bayi akan lahir di rumah sakit ini besok?
        
-      ### result 
-      ```yml 
-      0.1281201
-      ``` 
+         #### result 
+         ```yml 
+         0.1281201
+         ``` 
       - simulasikan dan buatlah histogram kelahiran 6 bayi akan lahir di rumah sakit ini selama
         setahun (n = 365)
+        ![](https://github.com/danielcristho/P1_Probstat_B_5025201121/blob/main/src/soal3-b.png)
       - dan bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan
       - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.
-        ### result
-        ```yml 
-        mean = var = rata2
-        mean
-        4.5
+           #### result
+           ```yml 
+           mean = var = rata2
+           mean
+           4.5
 
-        var
-        4.5
-        ``` 
+           var
+           4.5
+           ``` 
 
 4.  Diketahui nilai x = 2 dan v = 10. Tentukan:
       - Fungsi Probabilitas dari Distribusi Chi-Square
-      ### result
-        ```yml 
-        0.007664155
-        ```  
+         #### result
+           ```yml 
+           0.007664155
+           ```  
 
       - Histogram dari Distribusi Chi-Square dengan 100 data random.
       
       - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Chi-Square.
-      ### result
-      ```yml         
-      mean
-      10
-      variance
-      20
-      ```
+         #### result
+         ```yml         
+         mean
+         10
+         variance
+         20
+         ```
 
 
 | Nama                      | NRP           |
