@@ -1,9 +1,5 @@
 ### Praktikum 1 [ Probabilitas & Statistika ]
 
-
-
-
-
 ## Soal
 1. Seorang penyurvei secara acak memilih orang-orang di jalan sampai dia bertemu dengan
    seseorang yang menghadiri acara vaksinasi sebelumnya.
@@ -53,30 +49,22 @@
     var
     20
     ```
-
+2. Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan :
+    - Peluang terdapat 4 pasien yang sembuh
+      ### result
+      ```yml
+      0.2181994
+      ```
+    - Gambarkan grafik histogram berdasarkan kasus tersebut
+    ![](soal2-b.png)
     
-    
-    
-    
-    
-    
-    
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi 
+     ### result 
+     ```yml
+     4.363988
+     ```
+ 
 
 
 
