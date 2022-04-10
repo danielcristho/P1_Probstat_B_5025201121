@@ -19,9 +19,6 @@
        ```
        #### result:
        ```yml
-       > p = 0.2
-       > n = 3
-       > dgeom(x = n, prob = p)
        0.1024
        ```
     - mean Distribusi Geometrik dengan 10000 data random , prob = 0,20 dimana distribusi
