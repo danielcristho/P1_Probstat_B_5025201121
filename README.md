@@ -37,7 +37,22 @@
       ```
     - Bandingkan Hasil poin a dan b , apa kesimpulan yang bisa didapatkan?:
       Hasil banding menunjukkan bahwa ketika peluang n dari data random maka akan menghasilkan nilai yang berbeda
-       
+      
+      
+    - Histogram Distribusi Geometrik , Peluang X = 3 gagal Sebelum Sukses Pertama
+    ![]
+    - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik
+    ### result
+    ```yml
+    p = 0.2
+    mean = 1/p
+    mean
+    5
+    
+    var = (1-p)/p^2
+    var
+    20
+    ```
 
     
     
