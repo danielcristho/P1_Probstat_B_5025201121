@@ -35,12 +35,13 @@
       ```yml
       0.1002
       ```
-    - Bandingkan Hasil poin a dan b , apa kesimpulan yang bisa didapatkan?:
+    - Bandingkan Hasil poin a dan b , apa kesimpulan yang bisa didapatkan? =
       Hasil banding menunjukkan bahwa ketika peluang n dari data random maka akan menghasilkan nilai yang berbeda
       
       
     - Histogram Distribusi Geometrik , Peluang X = 3 gagal Sebelum Sukses Pertama
-    ![]
+    ![](https://github.com/danielcristho/P1_Probstat_B_5025201121/blob/main/soal1-e.png)
+    
     - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik
     ### result
     ```yml
