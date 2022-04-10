@@ -56,10 +56,12 @@
 
 2. Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan :
     - Peluang terdapat 4 pasien yang sembuh
+     
       ### result
       ```yml
       0.2181994
       ```
+      
     - Gambarkan grafik histogram berdasarkan kasus tersebut
     ![](soal2-b.png)
       #### result
@@ -77,11 +79,23 @@
     
 
     - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi 
+     
      ### result 
      ```yml
      4.363988
      ```
- 
+3.  Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis
+    4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)
+      - Berapa peluang bahwa 6 bayi akan lahir di rumah sakit ini besok?
+       
+      ### result 
+      ```yml 
+      0.1281201
+      ``` 
+      - simulasikan dan buatlah histogram kelahiran 6 bayi akan lahir di rumah sakit ini selama
+        setahun (n = 365)
+
+
 
 
 
