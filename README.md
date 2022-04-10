@@ -35,6 +35,8 @@
       ```yml
       0.1002
       ```
+    - Bandingkan Hasil poin a dan b , apa kesimpulan yang bisa didapatkan?:
+      Hasil banding menunjukkan bahwa ketika peluang n dari data random maka akan menghasilkan nilai yang berbeda
        
 
     
