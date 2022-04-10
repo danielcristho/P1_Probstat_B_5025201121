@@ -43,17 +43,18 @@
     ![](https://github.com/danielcristho/P1_Probstat_B_5025201121/blob/main/soal1-e.png)
     
     - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik
-    ### result
-    ```yml
-    p = 0.2
-    mean = 1/p
-    mean
-    5
     
-    var = (1-p)/p^2
-    var
-    20
-    ```
+      #### result
+       ```yml
+       p = 0.2
+       mean = 1/p
+       mean
+       5
+
+       var = (1-p)/p^2
+       var
+       20
+       ```
 
     
     
