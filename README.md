@@ -72,7 +72,7 @@
     
 
     - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi 
-      ### result
+      #### result
         ```yml
        p = 0.2
        mean = 1/p
@@ -134,7 +134,7 @@
       - Histogram dari Distribusi Exponensial untuk 10, 100, 1000 dan 10000 bilangan random 
         ![](https://github.com/danielcristho/P1_Probstat_B_5025201121/blob/main/src/no5.png)
       - Nilai Rataan (μ) dan Varian (σ²) dari DistribusiChi-Square 
-         ### result
+         #### result
           ```yml
          mean
          0.3675159
