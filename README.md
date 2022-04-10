@@ -1,4 +1,7 @@
 ### Praktikum 1 [ Probabilitas & Statistika ]
+| Nama                      | NRP           |
+|---------------------------|---------------|
+|Gloriyano C. Daniel Pepuho |5025201121     |
 
 
 
@@ -121,8 +124,21 @@
          variance
          20
          ```
-
-
-| Nama                      | NRP           |
-|---------------------------|---------------|
-|Gloriyano C. Daniel Pepuho |5025201121     |
+5. Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan:
+      - Fungsi Probabilitas dari Distribusi Exponensial 
+         #### result
+         ```yml
+         0.76939482 0.02182465 0.05931882 0.04235587 0.13891794 0.75044983 0.79072036 0.07095471 0.20254388
+         0.20801112
+         ```
+      - Histogram dari Distribusi Exponensial untuk 10, 100, 1000 dan 10000 bilangan random 
+        ![](https://github.com/danielcristho/P1_Probstat_B_5025201121/blob/main/src/no5.png)
+      - Nilai Rataan (μ) dan Varian (σ²) dari DistribusiChi-Square 
+         ### result
+          ```yml
+         mean
+         0.3675159
+         variance
+         0.09725574
+         ``` 
+6. Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8. Tentukan: 
