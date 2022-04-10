@@ -79,7 +79,6 @@
     
 
     - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi 
-<<<<<<< HEAD
      
      ### result 
      ```yml
@@ -95,15 +94,35 @@
       ``` 
       - simulasikan dan buatlah histogram kelahiran 6 bayi akan lahir di rumah sakit ini selama
         setahun (n = 365)
+      - dan bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan
+      - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.
+        ### result
+        ```yml 
+        mean = var = rata2
+        mean
+        4.5
 
+        var
+        4.5
+        ``` 
 
-=======
-      #### result 
-      ```yml
-      4.363988
+4.  Diketahui nilai x = 2 dan v = 10. Tentukan:
+      - Fungsi Probabilitas dari Distribusi Chi-Square
+      ### result
+        ```yml 
+        0.007664155
+        ```  
+
+      - Histogram dari Distribusi Chi-Square dengan 100 data random.
+      
+      - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Chi-Square.
+      ### result
+      ```yml         
+      mean
+      10
+      variance
+      20
       ```
-
-
 
 
 | Nama                      | NRP           |
