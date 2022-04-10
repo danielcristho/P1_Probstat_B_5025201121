@@ -6,7 +6,7 @@ pluang
 #B
 hist(rbinom(p,n,pluang),xlab = "x", ylab = "Frekuensi",main = "Histogram of Binomial")
 
-#C
+#c
 rerata = n*pluang
 rerata
 
