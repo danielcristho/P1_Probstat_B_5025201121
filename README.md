@@ -1,2 +1,6 @@
-# P1_Probstat_B_5025201121
-Praktikum 1 [ Probabilitas &amp; Statistika ]
+### Praktikum 1 [ Probabilitas & Statistika ]
+
+
+| Nama                      | NRP           |
+|---------------------------|---------------|
+|Gloriyano C. Daniel Pepuho |5025201121     |
