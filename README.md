@@ -111,6 +111,7 @@
            ```  
 
       - Histogram dari Distribusi Chi-Square dengan 100 data random.
+        ![](https://github.com/danielcristho/P1_Probstat_B_5025201121/blob/main/src/no4-b.png)
       
       - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Chi-Square.
          #### result
