@@ -37,7 +37,7 @@
       
       
     - Histogram Distribusi Geometrik , Peluang X = 3 gagal Sebelum Sukses Pertama
-    ![](https://github.com/danielcristho/P1_Probstat_B_5025201121/blob/main/soal1-e.png)
+    ![](https://github.com/danielcristho/P1_Probstat_B_5025201121/blob/main/src/soal1-e.png)
     
     - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik
     
@@ -63,7 +63,7 @@
       ```
       
     - Gambarkan grafik histogram berdasarkan kasus tersebut
-    ![](soal2-b.png)
+    ![](https://github.com/danielcristho/P1_Probstat_B_5025201121/blob/main/src/soal2.png)
       #### result
        ```yml
        p = 0.2
@@ -79,6 +79,7 @@
     
 
     - Nilai Rataan (μ) dan Varian (σ²) dari Distribusi 
+<<<<<<< HEAD
      
      ### result 
      ```yml
@@ -95,6 +96,12 @@
       - simulasikan dan buatlah histogram kelahiran 6 bayi akan lahir di rumah sakit ini selama
         setahun (n = 365)
 
+
+=======
+      #### result 
+      ```yml
+      4.363988
+      ```
 
 
 
